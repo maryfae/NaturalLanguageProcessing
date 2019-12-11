@@ -12,6 +12,14 @@ Resources:
 - https://towardsdatascience.com/deploying-models-to-flask-fb62155ca2c4
 - https://github.com/jeremyrchow/Harassment-Classifier-App
 
+## Pre-trained Sentiment Analysis
+
+Vader Sentiment Analysis
+
+https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f https://pypi.org/project/vader-sentiment/
+
+VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media.
+
 ## Document Topic Extraction
 
 This project uses an open source dataset from Sklearn: from sklearn.datasets import fetch_20newsgroups. The data set consists of new articles that are already classified into twenty different topics. 
