@@ -1,20 +1,10 @@
 # NLP_Examples
 
-## Semi-Supervised LDA Document Topic Classification
+This repo contains a variety of NLP tools and example notebooks for the tools. 
 
-Semi-Supervised Topic Extraction with Corex Topic
-https://medium.com/pew-research-center-decoded/overcoming-the-limitations-of-topic-models-with-a-semi-supervised-approach-b947374e0455 https://gist.github.com/patrickvankessel/0d5bd690910edece831dbdf32fb2fb2d https://github.com/gregversteeg/corex_topic
 
-Resources:
-- https://github.com/vi3k6i5/GuidedLDA/blob/master/examples/example_seeded_lda.py
-- https://www.freecodecamp.org/news/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164/
 
-## Semantic Analysis & Clustering
-
-Sentiment & Semantic Clustering¶
-https://github.com/UKPLab/sentence-transformers
-
-## Future Projects
+## Possible Future Projects
 
 Resources for further consideration
 - Real-time sentiment analysis in a chat application: https://pdfs.semanticscholar.org/03ba/177161cf908b4530b72ba0cf34f7e0a6c48a.pdf
