@@ -39,6 +39,15 @@ In the Topic Evaluation paper they find that UCI measure performs better than u-
 
 Measuring coherence helps us give a quantitative measurement to the unsupervised learning used in LDA topic modeling.
 
+## Semi-Supervised LDA Document Topic Classification
+
+Semi-Supervised Topic Extraction with Corex Topic
+https://medium.com/pew-research-center-decoded/overcoming-the-limitations-of-topic-models-with-a-semi-supervised-approach-b947374e0455 https://gist.github.com/patrickvankessel/0d5bd690910edece831dbdf32fb2fb2d https://github.com/gregversteeg/corex_topic
+
+Resources:
+- https://github.com/vi3k6i5/GuidedLDA/blob/master/examples/example_seeded_lda.py
+- https://www.freecodecamp.org/news/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164/
+
 Resources:
 - https://github.com/priya-dwivedi/Deep-Learning/blob/master/topic_modeling/LDA_Newsgroup.ipynb
 - https://towardsdatascience.com/applying-machine-learning-to-classify-an-unsupervised-text-document-e7bb6265f52
