@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-Natural Language Processing (NLP) is a process for computers to learn language and perform in depth analysis of text along with generating new text. There are a wide variety of applications of NLP, and new applications are implements almost daily. 
+Natural Language Processing (NLP) is a process for computers to learn language and perform in depth analysis of text along with generating new text. There are a wide variety of applications of NLP, and new applications are discovered and implemented almost daily. 
 
 This repo contains a variety of NLP tools and example notebooks for the tools. 
 
