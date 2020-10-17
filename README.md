@@ -1,10 +1,12 @@
-# NLP_Examples
+# Natural Language Processing
+
+Natural Language Processing (NLP) is a process for computers to learn language and perform in depth analysis of text along with generating new text. There are a wide variety of applications of NLP, and new applications are implements almost daily. 
 
 This repo contains a variety of NLP tools and example notebooks for the tools. 
 
 
 
-## Possible Future Projects
+## Future Inspiration
 
 Resources for further consideration
 - Real-time sentiment analysis in a chat application: https://pdfs.semanticscholar.org/03ba/177161cf908b4530b72ba0cf34f7e0a6c48a.pdf
